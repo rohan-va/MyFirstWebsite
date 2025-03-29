@@ -21,7 +21,7 @@ body {
     height: 150px;
     border-radius: 50%;
     margin: 20px auto;
-    display: block;
+    display: circle;
 }
 
 button {
